@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/untitled.dir/main.cpp.o: dyndep
+
+build CMakeFiles/untitled.dir/Person.cpp.o: dyndep
+
+build CMakeFiles/untitled.dir/Teacher.cpp.o: dyndep
+
+build CMakeFiles/untitled.dir/Student.cpp.o: dyndep
+

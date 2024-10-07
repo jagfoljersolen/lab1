@@ -1,0 +1,19 @@
+# ninja log v6
+3	166	1728231867887492771	CMakeFiles/untitled.dir/Teacher.cpp.o.ddi	f39e694caec5196a
+3	169	1728231867887492771	CMakeFiles/untitled.dir/Person.cpp.o.ddi	f2bf63d15c971daa
+2	188	1728231867887492771	CMakeFiles/untitled.dir/main.cpp.o.ddi	8b028111f90224ad
+167	312	1728231868051493840	CMakeFiles/untitled.dir/Student.cpp.o.ddi	bb51cac84b2f272a
+312	316	1728231868199494807	CMakeFiles/untitled.dir/CXX.dd	2185572835fb4b6f
+312	316	1728231868199494807	/home/twoj_stary/CLionProjects/lab1/cmake-build-debug/CMakeFiles/untitled.dir/CXXModules.json	2185572835fb4b6f
+312	316	1728231868199494807	CMakeFiles/untitled.dir/main.cpp.o.modmap	2185572835fb4b6f
+312	316	1728231868199494807	CMakeFiles/untitled.dir/Person.cpp.o.modmap	2185572835fb4b6f
+312	316	1728231868199494807	CMakeFiles/untitled.dir/Teacher.cpp.o.modmap	2185572835fb4b6f
+312	316	1728231868199494807	CMakeFiles/untitled.dir/Student.cpp.o.modmap	2185572835fb4b6f
+316	1147	1728231868199494807	CMakeFiles/untitled.dir/main.cpp.o	dc728eb205d2f1e2
+317	1187	1728231868199494807	CMakeFiles/untitled.dir/Person.cpp.o	4ab1556baf77adb0
+319	1229	1728231868203494834	CMakeFiles/untitled.dir/Teacher.cpp.o	552165c8b612ab6
+1149	1672	1728231869031500246	CMakeFiles/untitled.dir/Student.cpp.o	7b3614081714440e
+1672	1763	1728231869555503682	untitled	f73d995967a25880
+3	145	1728231951924120001	untitled	f73d995967a25880
+4	124	1728232074913288271	untitled	f73d995967a25880
+4	125	1728232084561390823	untitled	f73d995967a25880
